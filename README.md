@@ -4,26 +4,23 @@
 **Email associata:** chatgptunifi@gmail.com  
 **Mail PayPal:** llorenzogarrone@gmail.com (lorenzo con 2 L)  
 
+📅 **Prossimo rinnovo:** 17/03  
+
 ---
 ## 📜 Regole di Utilizzo
 
 ### 🔹 1. Organizzazione delle Chat
-- Ogni utente ha una cartella dedicata. Apri le nuove chat nella tua cartella per una migliore organizzazione e gestione della memoria di ChatGPT.
-- Se non vedi la tua cartella, accedi da PC e invia un messaggio per farla comparire.
-- L'app mobile mostra solo le ultime 10 cartelle usate. Se la tua cartella non è visibile, creala manualmente.
+- Ogni utente deve **crearsi la propria cartella** o chiedere a un admin di crearne una **la prima volta**.
+- Apri le nuove chat nella tua cartella per una migliore organizzazione e gestione della memoria di ChatGPT.
+- L'app mobile mostra solo le ultime 10 cartelle usate. Se la tua cartella non è visibile, **basta aprire ChatGPT da PC, inviare un messaggio nella propria cartella e questa tornerà visibile nell’app**.
 
-### 🔹 2. Accesso tramite Email (solo per utenti bannati su Telegram)
-Se non puoi accedere tramite Telegram:
-1. Seleziona "Try another method" e poi clicca su "Email".
-2. Ti verrà richiesto un codice di verifica. Invia una mail a **chatgptunifi@gmail.com** con oggetto **"codice"** (solo questa parola).
-3. Riceverai il codice entro 1 minuto. Se non arriva, contatta un admin.
-
-### 🔹 3. Accesso Tramite Telegram (Obbligatorio per chi NON è bannato)
+### 🔹 2. Accesso Tramite Telegram
 - **Telegram è obbligatorio** per usare il bot di gestione accessi.
 - Password, codice e registrazione sono gestiti tramite il bot Telegram fissato in chat dagli admin.
 - Segui le istruzioni del bot per ottenere l'accesso.
+- ⚠ **Se riscontri problemi con l'accesso a Telegram, contatta un admin che ti aiuterà con la procedura.**
 
-### 🔹 4. Regole per l'Uso dell'Account ChatGPT Plus
+### 🔹 3. Regole per l'Uso dell'Account ChatGPT Plus
 - L'account è **strettamente personale**.
 - Puoi accedere da più dispositivi, ma **solo i tuoi dispositivi personali**.
 - **⚠ Condividerlo è severamente vietato.**
