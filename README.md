@@ -1,5 +1,12 @@
 # 📌 Guida Completa all'Uso di ChatGPT e del Bot Telegram
 
+📩 **Contatta un admin per assistenza:**
+- [Lorenzo](https://wa.me/393662836990)  
+- [Gabriele](https://wa.me/393479950493)  
+- [Riccardo](https://wa.me/393932098005)  
+
+---
+
 ## 📩 Informazioni di Accesso
 **Email associata:** chatgptunifi@gmail.com  
 **Mail PayPal:** llorenzogarrone@gmail.com (lorenzo con 2 L)  
@@ -78,4 +85,4 @@ Se hai bisogno di vedere i comandi disponibili, usa:
 
 ---
 
-✅ **Grazie per la collaborazione!**
+✅ **Grazie per la collaborazione e buon utilizzo!**
