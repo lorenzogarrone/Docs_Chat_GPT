@@ -4,8 +4,6 @@
 **Email associata:** chatgptunifi@gmail.com  
 **Mail PayPal:** llorenzogarrone@gmail.com (lorenzo con 2 L)  
 
-📅 **Prossimo rinnovo:** 17/03  
-
 ---
 ## 📜 Regole di Utilizzo
 
@@ -46,7 +44,8 @@ Dopo l’approvazione dell’amministratore, ricevi la password con:
 
 ### 📌 4. Generare un codice OTP
 Se sei registrato e hai effettuato il pagamento, genera un codice OTP con:  
-👉 `/generate`
+👉 `/generate`  
+🔹 **Cos'è un codice OTP?** Un OTP (**One-Time Password**) è un codice monouso temporaneo che serve per autenticarti in modo sicuro. Ha una validità limitata e viene richiesto ad ogni accesso.
 
 ### 📌 5. Ottenere aiuto sui comandi
 Se hai bisogno di vedere i comandi disponibili, usa:  
