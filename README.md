@@ -9,7 +9,7 @@
 
 ## 📩 Informazioni di Accesso
 **Email associata:** chatgptunifi@gmail.com  
-**Mail PayPal:** pay.chatgpt.unifi@gmail.com (lorenzo con 2 L)  
+**Mail PayPal:** pay.chatgpt.unifi@gmail.com
 
 ---
 ## 📜 Regole di Utilizzo
