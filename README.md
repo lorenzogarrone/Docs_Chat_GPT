@@ -12,7 +12,6 @@ Benvenuto! Questa guida ti spiega come accedere a ChatGPT tramite il bot Telegra
 ---
 
 ### 🔐 Informazioni di Accesso
-- **Email ChatGPT**: `access.chatgpt.unifi@gmail.com`
 - **Email PayPal**: `pay.chatgpt.unifi@gmail.com`
 - **Prezzo Abbonamento**: 0.80€/mese
 - **Metodo di pagamento consigliato**: [PayPal](https://www.paypal.com/paypalme/chatgptunifi/0.80)
