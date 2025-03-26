@@ -1,88 +1,107 @@
-# 📌 Guida Completa all'Uso di ChatGPT e del Bot Telegram
+## 📘 Guida all'Uso del Bot Telegram e Accesso ChatGPT
 
-📩 **Contatta un admin per assistenza:**
-- [Lorenzo](https://wa.me/393662836990)  
-- [Gabriele](https://wa.me/393479950493)  
-- [Riccardo](https://wa.me/393932098005)  
+Benvenuto! Questa guida ti spiega come accedere a ChatGPT tramite il bot Telegram e come usare correttamente il servizio.
 
 ---
 
-## 📩 Informazioni di Accesso
-**Email associata:** chatgptunifi@gmail.com  
-**Mail PayPal:** pay.chatgpt.unifi@gmail.com
-
----
-## 📜 Regole di Utilizzo
-
-### 🔹 1. Organizzazione delle Chat
-- Ogni utente deve **crearsi la propria cartella** o chiedere a un admin di crearne una **la prima volta**.
-- Apri le nuove chat nella tua cartella per una migliore organizzazione e gestione della memoria di ChatGPT.
-- L'app mobile mostra solo le ultime 10 cartelle usate. Se la tua cartella non è visibile, **basta aprire ChatGPT da PC, inviare un messaggio nella propria cartella e questa tornerà visibile nell’app**.
-
-### 🔹 2. Accesso Tramite Telegram
-- **Telegram è obbligatorio** per usare il bot di gestione accessi.
-- Password, codice e registrazione sono gestiti tramite il bot Telegram fissato in chat dagli admin.
-- Segui le istruzioni del bot per ottenere l'accesso.
-- ⚠ **Se riscontri problemi con l'accesso a Telegram, contatta un admin che ti aiuterà con la procedura.**
-
-### 🔹 3. Regole per l'Uso dell'Account ChatGPT Plus
-- L'account è **strettamente personale**.
-- Puoi accedere da più dispositivi, ma **solo i tuoi dispositivi personali**.
-- **⚠ Condividerlo è severamente vietato.**
-- 🚨 Chiunque venga scoperto a condividerlo sarà **espulso immediatamente** dal gruppo WhatsApp e perderà l’accesso a ChatGPT senza preavviso.
+### 📩 Contatta un Admin per Assistenza:
+- [Gabriele (WhatsApp)](https://wa.me/393479950493)
+- [Lorenzo (WhatsApp)](https://wa.me/393662836990)
+- [Riccardo (WhatsApp)](https://wa.me/393932098005)
 
 ---
 
-## 🤖 Guida all'Uso del Bot Telegram
-
-### 📌 1. Avviare il bot
-[Clicca qui per avviarlo](https://t.me/Gestore_Chat_GPT_bot)  
-Una volta aperto, clicca su **"Avvia"** oppure invia il comando:  
-👉 `/start`
-
-### 📌 2. Registrarsi nel sistema
-Per registrarti e poter usare il bot, digita:  
-👉 `/register`  
-⚠ Un admin deve convalidare il pagamento prima che tu possa proseguire.
-
-### 📌 3. Ottenere la password di accesso
-Dopo l’approvazione dell’amministratore, ricevi la password con:  
-👉 `/ask`
-
-### 📌 4. Generare un codice OTP
-Se sei registrato e hai effettuato il pagamento, genera un codice OTP con:  
-👉 `/generate`  
-🔹 **Cos'è un codice OTP?** Un OTP (**One-Time Password**) è un codice monouso temporaneo che serve per autenticarti in modo sicuro. Ha una validità limitata e viene richiesto ad ogni accesso.
-
-### 📌 5. Ottenere aiuto sui comandi
-Se hai bisogno di vedere i comandi disponibili, usa:  
-👉 `/help`
-
-### 📌 Riepilogo Comandi
-✅ `/start` – Mostra il messaggio di benvenuto e i comandi disponibili.  
-✅ `/register` – Ti registra nel sistema per generare codici OTP.  
-✅ `/ask` – Ti fornisce la password di accesso (se hai pagato).  
-✅ `/generate` – Genera un codice OTP per l’accesso ai servizi.  
-✅ `/help` – Mostra la lista completa dei comandi e le loro descrizioni.  
-
-### ⚠ Cose Importanti da Ricordare
-✔ Se il tuo stato è **"Non Pagato"**, non potrai generare codici o ricevere la password.  
-✔ Contatta un amministratore per l’attivazione.  
-✔ Ogni utente può accedere **unicamente dai propri dispositivi personali**.  
-✔ I codici OTP hanno una **validità limitata nel tempo**.  
-
-📩 **Hai bisogno di aiuto?** Contatta un amministratore!
-
-🚀 **Buon utilizzo del bot!**
+### 🔐 Informazioni di Accesso
+- **Email ChatGPT**: `access.chatgpt.unifi@gmail.com`
+- **Email PayPal**: `pay.chatgpt.unifi@gmail.com`
+- **Prezzo Abbonamento**: 0.80€/mese
+- **Metodo di pagamento consigliato**: [PayPal](https://www.paypal.com/paypalme/chatgptunifi/0.80)
 
 ---
 
-## ⚠️ Avviso Importante ⚠️
+### 📜 Regole di Utilizzo
 
-- **Non richiedere il codice di accesso in modo eccessivo.** Se succede, potremmo essere costretti a **modificare la password** e limitare l’accesso per tutti.
-- ❗️**Due membri sono già stati esclusi** per abuso del sistema. Presta attenzione!
-- **Evita di accedere tutti insieme** per prevenire blocchi di accesso.
+#### 1. **Organizzazione delle Chat**
+- Ogni utente deve avere una propria cartella su ChatGPT.
+- L'app mobile mostra solo le ultime 10 cartelle usate.
+  - Se non vedi la tua cartella, accedi da PC e invia un messaggio nella tua cartella per farla riapparire.
+
+#### 2. **Accesso Tramite Telegram**
+- Telegram è obbligatorio per gestire registrazione, accesso e autenticazione.
+- Tutte le operazioni si fanno tramite il bot Telegram.
+
+#### 3. **Uso dell'Account ChatGPT Plus**
+- L'accesso è **strettamente personale**.
+- Puoi usarlo su più dispositivi, ma **solo i tuoi personali**.
+- ❌ Condividere l'account è vietato: comporta l'espulsione dal gruppo.
 
 ---
 
-✅ **Grazie per la collaborazione e buon utilizzo!**
+### 🤖 Guida all'Uso del Bot Telegram
+
+#### 1. **Avviare il bot**
+- Clicca su "Avvia" oppure invia il comando:
+```/start```
+
+#### 2. **Registrarsi nel sistema**
+- Comando:
+```/register```
+- Dopo la registrazione, attendi che un admin confermi il tuo pagamento.
+- Puoi usare un codice referral per far ottenere 0.10€ a chi ti ha invitato:
+```/register <referral_code>```
+
+#### 3. **Ottenere la password di accesso**
+- Dopo l'approvazione dell'admin:
+```/password```
+
+#### 4. **Generare un codice OTP (One-Time Password)**
+- Se sei registrato e hai pagato:
+```/generate```
+oppure:
+```/otp```
+
+#### 5. **Altri Comandi Utili**
+- ```/paypal``` → Link e istruzioni per pagare su PayPal
+- ```/referral``` → Ottieni il tuo referral code per invitare amici
+- ```/credit``` → Verifica il tuo credito disponibile
+- ```/ask <domanda>``` → Chiedi info al bot AI (fino a 10 al giorno)
+- ```/info``` → Info per contattare un admin
+
+---
+
+### ⚠️ Avvisi Importanti
+
+- Non abusare della generazione di OTP: se esageri, la password verrà cambiata per tutti.
+- Due membri sono già stati espulsi per uso improprio.
+- Evita di accedere tutti contemporaneamente per non causare blocchi.
+
+---
+
+### 📌 Riepilogo Comandi Utente
+
+```bash
+/start           # Mostra i comandi disponibili
+/register        # Registra l'utente nel sistema
+/password        # Mostra password e email (se hai pagato)
+/generate o /otp # Genera un codice OTP
+/paypal          # Mostra il link PayPal
+/referral        # Mostra il tuo codice referral
+/ask             # Fai una domanda o suggerisci qualcosa
+/credit          # Mostra il tuo credito
+/info            # Mostra i contatti degli admin
+/help            # Mostra questa guida
+```
+
+---
+
+### 🎁 Bonus Referral
+- Invita amici usando il tuo codice referral.
+- Ogni amico registrato ti fa guadagnare **10 centesimi** di credito!
+
+---
+
+### 🆘 Hai bisogno di aiuto?
+- Contatta un admin su WhatsApp o invia:
+```/info```
+
+Buon utilizzo del bot e del servizio! 🚀
