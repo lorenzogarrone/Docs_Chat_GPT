@@ -1,5 +1,7 @@
 ## 📘 Guida all'Uso del Bot Telegram e Accesso ChatGPT
 
+🔗 **Accedi subito al bot Telegram**: [@Gestore_Chat_GPT_bot](https://t.me/Gestore_Chat_GPT_bot)
+
 Benvenuto! Questa guida ti spiega come accedere a ChatGPT tramite il bot Telegram e come usare correttamente il servizio.
 
 ---
@@ -27,7 +29,7 @@ Benvenuto! Questa guida ti spiega come accedere a ChatGPT tramite il bot Telegra
 
 #### 2. **Accesso Tramite Telegram**
 - Telegram è obbligatorio per gestire registrazione, accesso e autenticazione.
-- Tutte le operazioni si fanno tramite il bot Telegram.
+- Tutte le operazioni si fanno tramite il bot Telegram: [@Gestore_Chat_GPT_bot](https://t.me/Gestore_Chat_GPT_bot)
 
 #### 3. **Uso dell'Account ChatGPT Plus**
 - L'accesso è **strettamente personale**.
